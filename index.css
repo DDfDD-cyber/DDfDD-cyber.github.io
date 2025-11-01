@@ -47,6 +47,19 @@ li.one a.active{
     font-weight:bold;
 }
 
+/* 列表格式 */
+ol.one {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+  flex-direction: column-reverse;
+}
+
+ol li {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
 /*内容布局*/
 .column.left {
     width: 60%;
