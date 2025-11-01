@@ -53,6 +53,7 @@ ol.one {
     padding: 10px;
     display: flex;
   flex-direction: column-reverse;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 ol.one li {
