@@ -55,7 +55,7 @@ ol.one {
   flex-direction: column-reverse;
 }
 
-ol li {
+ol>li {
     margin-bottom: 10px;
     padding: 5px;
 }
